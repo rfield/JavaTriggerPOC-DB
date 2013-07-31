@@ -1,0 +1,1 @@
+exec dbms_java.grant_permission( 'RFIELD', 'SYS:java.net.SocketPermission', '167.206.9.83:8080', 'connect,resolve' );
